@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&family=Open+Sans&family=Raleway:wght@200&family=Roboto+Slab:wght@200&family=Source+Serif+Pro:wght@300&family=Tiro+Telugu&family=Twinkle+Star&display=swap');
+body{
+    background-color:rgb(130, 20, 234);
+}
+#hud{
+    color: white;
+    font-size: 52px;
+    margin-top: 72px;
+    margin-bottom: -32px;
+    margin-left: 90px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 550;
+}
+.message{
+    color: white;
+    font-size: 55px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    letter-spacing: 1.4px;
+    margin-left: 742px;
+}
+#mess1{
+    margin-top: 122px;
+}
+.messsmall{
+    margin-left: 742px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 550;
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    margin-top: -11px;
+}
+#mess1p2{
+    margin-top: -42px;
+}
+#mess2{
+    margin-top: -27px;
+}
+#reg{
+    padding-left: 41px;
+    padding-bottom: 10px;
+    padding-right: 41px;
+    padding-top: 10px;
+    border-radius: 22px;
+    width: 210px;
+    height: 53px;
+        margin-left: 742px;
+    color:rgb(43, 4, 81);
+    font-weight:500;
+    font-size: 20px;
+    font-family: 'Tiro Telugu', serif;
+    border-top: 0.4 black ;
+    border-bottom: 0.4 black ;
+    border-left: 0.4 black ;
+    border-right: 0.4 black ;
+    background-color: white;
+}
+#reg:hover{
+    cursor: pointer;
+    background-color:rgb(158, 93, 219);
+    color: white;
+}
+.headblack{
+    background-color: black;
+    width: 580px;
+    margin-left: 52px;
+    margin-top: 152px;
+    margin-bottom: -58px;
+    border-radius: 17px;
+    height: 60px;
+    color: black;
+}
+#whitecon{
+    color: white;
+    background-color: white;
+    padding-bottom: 23px;
+    width: 198px;
+    margin-left: 52px;
+    border-radius: 10px;
+    height: 2.6px;
+    margin-top: 2.5px;
+}
+.con{
+    color: white;
+    background-color: white;
+    height: 420px;
+    border-radius: 17px;
+}
+#orangecon{
+    background-image: linear-gradient(45deg,orange,purple);
+    color: orange;
+    border-radius: 100%;
+    height: 90px;
+    margin-left: 60px;
+    margin-top: 50px;
+    width:95px;
+}
+#greylines{
+    background-color: grey;
+    color: grey;
+    width: 155px;
+    margin-left: 212px;
+    border-radius: 5px;
+    margin-top: -98px;
+
+}
+.greycopy{
+    background-color: grey;
+    width: 345px;
+    color: grey;
+    height: 17px;
+    margin-left: 212px;
+    border-radius: 5px;
+}
+#bluecon{
+    background-image: linear-gradient(180deg, rgb(10, 136, 239),rgb(2, 4, 74));
+    color:blue;
+    border-radius: 100%;
+    height: 90px;
+    margin-left: 60px;
+    margin-top:55px;
+    width:95px;
+}
+
